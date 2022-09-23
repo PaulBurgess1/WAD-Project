@@ -197,6 +197,9 @@ header h1{
     .desc{
         display:none;
     }
+    .rotd-card .recipe-name h3{
+        font-size: 1.1rem;
+    }
 }
 
 /*Non Mobile Devices ( > 640px) */
