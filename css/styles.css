@@ -158,7 +158,7 @@ header h1{
     border: var(--clr-bg-hf) 1px solid;
     
 }
-.rotd-card div .recipe-name >*{
+.rotd-card div .recipe-name{
     border-radius: 1rem 1rem 0 0;
 }
 .desc{
